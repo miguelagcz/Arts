@@ -1,0 +1,3 @@
+Copia aquí tu carpeta "assets" completa del proyecto original
+(cachi.webp, Loojan.webp, webp/, loojan/, colaboraciones/, Musica/).
+Ver README.md en la raíz del proyecto para más detalle.
