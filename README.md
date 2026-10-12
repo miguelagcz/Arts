@@ -1,46 +1,64 @@
-# Cachirula & Loojan — Website
+# Cachirula & Loojan — Musical Website
 
-Sitio web para un dúo musical, migrado a **Next.js 14 + TypeScript** y rediseñado con una experiencia visual moderna, animaciones y navegación responsive.
+Sitio web dedicado a un proyecto musical, construido con Next.js y React. La experiencia combina presentación de artistas, secciones visuales, navegación fluida y animaciones para crear una presencia digital alineada con una identidad musical.
 
-## ✨ Características
+<p align="center">
+  <a href="https://github.com/miguelagcz/Arts"><img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Repositorio"></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+</p>
 
-- Diseño responsive.
-- Smooth scroll con Lenis.
-- Animaciones con Framer Motion.
-- Hero y presentación de artistas.
-- Carruseles horizontales con scroll-snap.
+## Características
+
+- Diseño responsive enfocado en una identidad musical.
+- Hero y presentación del proyecto artístico.
+- Navegación con desplazamiento suave mediante Lenis.
+- Animaciones de interfaz con Framer Motion.
+- Carruseles horizontales con desplazamiento y scroll-snap.
 - Sección de colaboraciones con interacción visual.
 - Enlaces a plataformas musicales.
-- SEO y metadata para compartir el sitio.
-- Sitemap y robots.txt.
-- Preparado para despliegue en Vercel.
+- Metadata y recursos SEO como sitemap y robots.txt.
+- Preparación para despliegue en Vercel.
 
-## 🛠️ Tecnologías
+## Stack tecnológico
 
 - Next.js 14
-- React
+- React 18
 - TypeScript
 - Framer Motion
 - Lenis
 - CSS
+- Vercel Analytics
 
-## 🚀 Instalación
+## Instalación local
+
+Necesitas Node.js y npm.
 
 ```bash
+git clone https://github.com/miguelagcz/Arts.git
+cd Arts
 npm install
 npm run dev
 ```
 
-Después, abre `http://localhost:3000` en el navegador.
+Abre http://localhost:3000 en el navegador.
 
-## 📦 Despliegue
+## Compilación
 
-El proyecto está preparado para desplegarse en Vercel mediante GitHub.
+```bash
+npm run build
+npm run start
+```
 
-## 👨‍💻 Autor
+## Qué demuestra
 
-**Miguel Cruz**  
-Frontend Developer Jr.
+Este proyecto refleja el trabajo con componentes en React, animaciones, navegación fluida, composición visual, responsive design y organización de páginas con Next.js. Los enlaces musicales conducen a plataformas externas según estén configurados en el sitio.
 
-GitHub: https://github.com/miguelagcz  
-Portafolio: https://miguelcruz.site
+## Autor
+
+**Miguel Ángel Cruz** · Frontend Developer Jr.
+
+- Portfolio: https://www.miguelcruz.site/
+- GitHub: https://github.com/miguelagcz
